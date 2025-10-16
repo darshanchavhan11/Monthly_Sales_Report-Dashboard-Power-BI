@@ -1,0 +1,37 @@
+# 📊 Monthly_Sales_Report-Dashboard – Power BI
+
+## 🧠 Overview
+This project presents a one-month sales report dashboard built using Power BI. It visualizes key business metrics using two core datasets:
+- `employee`: Contains employee details and identifiers.
+- `sales_raw_data`: Includes transactional sales data for the reporting period.
+
+The primary goal of this dashboard is to provide clear, interactive visualizations that help stakeholders understand sales performance, employee contributions, and product-level insights.
+
+---
+
+## 📁 Project Structure
+
+---
+
+## 🔍 Key Features
+
+- 📈 **Sales Trends**: Monthly sales performance visualized over time
+- 👥 **Employee Insights**: Individual contribution and performance metrics
+- 🛒 **Product Breakdown**: Sales by product category and quantity
+- 📍 **Geographic Distribution**: (Optional) Regional sales mapping
+- 📊 **Interactive Filters**: Slicers for employee, product, and date ranges
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop**
+- **Data Modeling**: Relationships between employee and sales tables
+- **DAX**: Calculated columns and measures for KPIs
+- **Visualizations**: Bar charts, line graphs, tables, slicers
+
+---
+
+## 📸 Screenshots
+
+![Dashboard Overview](assets/dashboard_overview.png)
